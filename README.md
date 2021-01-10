@@ -1,2 +1,2 @@
 # meal_analysis
-estimator for meal score
+estimator for meal score using SVM
